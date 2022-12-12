@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "12.12 prakt", "12.12 prakt.pyproj", "{CAA8E394-02A4-44B9-911E-5C5FC95DF88C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAA8E394-02A4-44B9-911E-5C5FC95DF88C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA8E394-02A4-44B9-911E-5C5FC95DF88C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B5829AE-A9B4-4ED4-A18E-86FB91F70912}
+	EndGlobalSection
+EndGlobal
